@@ -65,3 +65,6 @@
 </table>
 ## 使用案例圖表 ##
 <img src="https://images.plurk.com/3Ub4XLoIqFgJGYqDawhyEj.jpg">
+
+# 整個系統的初步類別圖 #
+<img src="https://images.plurk.com/440eYk3h10v5DnClEoQ8uf.jpg">
