@@ -68,10 +68,13 @@
 
 # 整個系統的初步類別圖 #
 <img src="https://cacoo.com/diagrams/9V3DqxESZEIuFCm7-993B8.png">
-
-# 建立商品基本資料作業使用案例的描述 #
-
 ----------
+# 建立商品基本資料流程圖 #
+<img src="https://cacoo.com/diagrams/aBtAbmOwF8GdAPDv-D17FF.png">
+----------
+# 建立商品基本資料作業使用案例的描述 #
+----------
+
 
 <table>
 <tr>
@@ -146,11 +149,8 @@
 </tr>
 </table>
 
-----------
-# 建立商品基本資料流程圖 #
 
-----------
-<img src="https://cacoo.com/diagrams/aBtAbmOwF8GdAPDv-D17FF.png">
+
 
 
 ----------
@@ -462,6 +462,12 @@ deleteStores(storesID,storesName,storesInfo)
 
 
 # 比價作業#
+-------
+# 建立商品基本資料流程圖 #
+
+----------
+<img src="https://cacoo.com/diagrams/l5lekSypOxhY9aSB-DF7DC.png">
+
 #使用案例的描述 #
 --------
 
@@ -741,11 +747,7 @@ deleteStores(storesID,storesName,storesInfo)
 </tr>
 </table>
 
-----------
-# 建立商品基本資料流程圖 #
 
-----------
-<img src="https://cacoo.com/diagrams/l5lekSypOxhY9aSB-DF7DC.png">
 
 
 ----------
@@ -953,7 +955,7 @@ delectCustomer(customerID,customerName)<br><br><br><br><br>
 # 建立商品基本資料流程圖 #
 
 ----------
-<img src="https://cacoo.com/diagrams/CwDMlKPUZgObgMjf-AC336.png"></a>
+<img src="https://cacoo.com/diagrams/CwDMlKPUZgObgMjf-AC336.png">
 
 
 ----------
