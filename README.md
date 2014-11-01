@@ -457,14 +457,9 @@ deleteStores(storesID,storesName,storesInfo)
 </table>
 
 ----------
-# 使用案例之系統循序圖 #
-
----------------
 
 
 
-
-<img src="https://cacoo.com/diagrams/nISlnpmoZTMrT5Va-11858.png">
 
 # 比價作業#
 #使用案例的描述 #
@@ -661,9 +656,8 @@ deleteStores(storesID,storesName,storesInfo)
       -回傳printSuccess</p></td>
   </tr>
 </table>
-# 使用案例之系統循序圖 #
----------
-<img src="https://cacoo.com/diagrams/Z6QJ3mIMpgb2mBWF-11858.png">
+
+
 
 # 使用案例的初步類別圖 #
 -------
@@ -884,10 +878,7 @@ delectCustomer(customerID,customerName)<br><br><br><br><br>
 
 
 ----------
-# 使用案例之系統循序圖 #
 
-----------
-<img src="https://cacoo.com/diagrams/DilT8PH823MI8zHf-AA261.png">
 
 # 商品查詢作業使用案例的描述 #
 
@@ -1163,4 +1154,7 @@ printItem(proNumber,proName,proPrice)
 
 ----------
 
-<img src="https://cacoo.com/diagrams/NGY3r0Cic91WjzIf-D9C48.png"></a>
+<img src="https://cacoo.com/diagrams/nISlnpmoZTMrT5Va-11858.png">
+<img src="https://cacoo.com/diagrams/NGY3r0Cic91WjzIf-D9C48.png">
+<img src="https://cacoo.com/diagrams/Z6QJ3mIMpgb2mBWF-11858.png">
+<img src="https://cacoo.com/diagrams/DilT8PH823MI8zHf-AA261.png">
