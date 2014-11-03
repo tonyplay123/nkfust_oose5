@@ -602,6 +602,10 @@ deleteStores(storesID,storesName,storesInfo)
       <p>inputProduct()    inputStores();&nbsp;</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
+      checkProduct()
+checkStore()
+
+catchstores()
       <p>showProduct(ProductItem).showStore(StoreInfo) </p></td>
   </tr>
 </table>
