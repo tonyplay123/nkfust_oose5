@@ -324,7 +324,7 @@ deleteStores(storesID,storesName,storesInfo)
 <td markdown="1">操作：inputProduct()<br>
 交互參照：商品基本資料作業<br>
 前置條件：存在類別Product之實例newProduct<br>
-後置條件：-檢查並確認實例newProduct之productName、productDemo、productPrice屬性隻起始值為空白<br>
+後置條件：-檢查並確認實例newProduct之productName、productDemo、productPrice屬性之起始值為空白<br>
 -給定實例 newProduct之屬性productID最新商品編號<br>
 -回傳productID
 </td>
@@ -339,7 +339,7 @@ deleteStores(storesID,storesName,storesInfo)
 <td markdown="1">操作：inputStores()<br>
 交互參照：商品基本資料作業<br>
 前置條件：存在類別Stores之實例newStores<br>
-後置條件：-檢查並確認實例newStores之storesName、storesInfo、屬性隻起始值為空白<br>
+後置條件：-檢查並確認實例newStores之storesName、storesInfo、屬性之起始值為空白<br>
 -給定實例 newProduct之屬性productID最新商品編號<br>
 -回傳productID
 </td>
