@@ -733,9 +733,6 @@ printItem(proNumber,proName,proPrice)
 
 
 
--------
--------
--------
 
 
 <img src="https://images.plurk.com/7pqZUWOKxXDS17cTNmNWhu.jpg">
