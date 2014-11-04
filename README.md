@@ -729,13 +729,18 @@ printItem(proNumber,proName,proPrice)
 <br>
 <table>
 <tr>
-
+--------
+---------
+--------
 # 比價作業 #
-## 使用案例的描述 ##
+--------
 ## 使用案例活動圖 ##
 
 
 <img src="https://images.plurk.com/7pqZUWOKxXDS17cTNmNWhu.jpg">
+-----------
+## 使用案例的描述 ##
+
 <table border="0" cellspacing="0" cellpadding="0" width="557">
   <tr>
     <td width="104" nowrap="nowrap"><p>使用案例名稱 </p></td>
