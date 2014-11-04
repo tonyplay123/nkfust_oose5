@@ -733,9 +733,9 @@ printItem(proNumber,proName,proPrice)
 
 <br>
 # 比價作業 #
-
-## 使用案例活動圖 ##
 <br>
+## 使用案例活動圖 ##
+
 
 <img src="https://images.plurk.com/7pqZUWOKxXDS17cTNmNWhu.jpg">
 
