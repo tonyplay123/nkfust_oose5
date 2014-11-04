@@ -734,12 +734,12 @@ printItem(proNumber,proName,proPrice)
 --------
 <br>
 # 比價作業 #
---------
+<br>--------<br>
 ## 使用案例活動圖 ##
 <br>
 
 <img src="https://images.plurk.com/7pqZUWOKxXDS17cTNmNWhu.jpg">
------------
+<br>-----------<br>
 ## 使用案例的描述 ##
 <br>
 <table border="0" cellspacing="0" cellpadding="0" width="557">
