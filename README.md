@@ -730,15 +730,9 @@ printItem(proNumber,proName,proPrice)
 <table>
 <tr>
 
-
-
 # 比價作業 #
--------
 ## 使用案例的描述 ##
---------
-
 ## 使用案例活動圖 ##
------------
 
 
 <img src="https://images.plurk.com/7pqZUWOKxXDS17cTNmNWhu.jpg">
