@@ -1167,9 +1167,11 @@ delectCustomer(customerID,customerName)<br><br><br><br><br>
 ### 查詢商品 ###
 <img src="https://cacoo.com/diagrams/NGY3r0Cic91WjzIf-D9C48.png">
 ###比價商品###
-<img src="https://cacoo.com/diagrams/Z6QJ3mIMpgb2mBWF-11858.png">
+<img src="https://images.plurk.com/4naVFIO4Fs5ZkphQKC03Ej.jpg
+">
 ###客戶基本資料作業###
-<img src="https://images.plurk.com/4BumnTlxFJRFu3QoByrYLB.jpg">
+<img src="https://images.plurk.com/5fo0T1umeLTuBTDjg2XbEl.jpg
+">
 
 
 安安
