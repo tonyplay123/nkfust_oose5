@@ -1163,14 +1163,14 @@ delectCustomer(customerID,customerName)<br><br><br><br><br>
 
 ----------
 ### 商品資料作業 ###
-<img src="https://cacoo.com/diagrams/nISlnpmoZTMrT5Va-11858.png">
+<img src="https://cacoo.com/diagrams/DilT8PH823MI8zHf-AA261.png">
 ### 查詢商品 ###
 <img src="https://cacoo.com/diagrams/NGY3r0Cic91WjzIf-D9C48.png">
 ###比價商品###
 <img src="https://cacoo.com/diagrams/Z6QJ3mIMpgb2mBWF-11858.png
 ">
 ###客戶基本資料作業###
-<img src="https://images.plurk.com/5fo0T1umeLTuBTDjg2XbEl.jpg
+<img src="https://cacoo.com/diagrams/DilT8PH823MI8zHf-AA261.png
 ">
 
 
