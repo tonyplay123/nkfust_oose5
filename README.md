@@ -245,7 +245,7 @@
 # 使用案例的初步類別圖 #
 
 ----------
-
+<img src="https://cacoo.com/diagrams/3mSCV7b6pPDjFvo6-5A984.png">
 
 ----------
 # 使用案例主要成功情節之英文名稱事件對應 #
