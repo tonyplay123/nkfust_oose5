@@ -249,6 +249,8 @@
 <img src="https://cacoo.com/diagrams/3mSCV7b6pPDjFvo6-5A984.png">
 
 ----------
+<h2 id="11">商品建立作業強韌圖</h2>
+<img src="https://cacoo.com/diagrams/o1qfzS3Te2LDHc5M-DFB3B.png">
 <h2 id="12">商品建立作業系統循序圖</h2>
 <img src="https://cacoo.com/diagrams/XllZ4DZnTyUpBA9u-CAD9C.png">
 
