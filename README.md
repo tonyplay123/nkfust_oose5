@@ -16,9 +16,11 @@
 <a href="#7">商品基本資料作業</a><br>
 <a href="#8">商品查詢作業</a><br>
 <a href="#9">比價作業</a><br>
+<a href="#15">比價作業圖</a><br>
 <a href="#10">客戶基本資料作業</a><br>
 <a href="#11">商品建立作業強韌圖</a><br>
 <a href="#12">商品建立作業系統循序圖</a><br>
+
 
 <h2 id="1"> 研究動機 </h2> <a href="#top" > <p align="right">TOP</p> </a><br>
 本小組有名成員為模型愛好者，由於現今的模型市場通路並不廣泛，導致在其在模型選購上十分不便，因此他希望能有個整合模型通路的網站平台。而經過小組討論，本組決定設計一個模型比價網，讓眾多模型愛好者有夠方便比較、購買模型的網站空間。
@@ -757,6 +759,11 @@ printItem(proNumber,proName,proPrice)
 
 
 <img src="https://images.plurk.com/7pqZUWOKxXDS17cTNmNWhu.jpg">
+
+<h2 id="15">比價作業強韌圖 </h2> <a href="#top" > <p align="right">TOP</p> </a><br>
+<br>
+
+<img src="https://cacoo.com/diagrams/uh1cRAo2LMWAF9yY-6A5BF.png">
 
 ## 使用案例的描述 ##
 
