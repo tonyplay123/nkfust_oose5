@@ -1200,4 +1200,18 @@ delectCustomer(customerID,customerName)<br><br><br><br><br>
 ">
 
 
-安安
+# 系統示意圖 #
+首頁<BR>
+<BR>
+<img src="https://images.plurk.com/74EbQI8xZKhkNmPOSWZit.jpg
+">
+會員管理<BR>
+<BR>
+<img src="https://images.plurk.com/1vlwKHohxZfmVpMoUJh7kR.jpg
+">
+<BR>
+
+<BR>
+# 資料庫 #
+<img src="https://images.plurk.com/4nwcUeuRnEmf557dssm293.jpg
+">
